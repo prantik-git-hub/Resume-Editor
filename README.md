@@ -13,11 +13,8 @@ __## Folder Structure
 
 __## Setup Instructions
 
----
 
- Frontend (React)
-
-```bash
+```bash (Frontend (React))
 cd frontend
 npm install     **It will ask for accessing node_modules for smooth installation(click ok)**
 npm start
@@ -49,9 +46,8 @@ npm audit fix --force
 
 ---
 
- Backend (FastAPI)
 
-```bash
+```bash (Backend (FastAPI))
 cd backend
 pip install fastapi uvicorn pydantic
 uvicorn main:app --reload    **It will show this**
