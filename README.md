@@ -84,8 +84,11 @@ INFO:     Application startup complete.
 ## Tech Stack
 
 1.Frontend: React
+
 2.Backend: FastAPI
+
 3.Styling: CSS
+
 4.PDF Generator: jsPDF
 
 ---
