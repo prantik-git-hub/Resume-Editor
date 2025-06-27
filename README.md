@@ -14,7 +14,7 @@ __## Folder Structure
 __## Setup Instructions
 
 
-```bash (Frontend (React))
+ (Frontend (React))
 cd frontend
 npm install     **It will ask for accessing node_modules for smooth installation(click ok)**
 npm start
