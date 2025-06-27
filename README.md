@@ -43,6 +43,7 @@ npm start
 ##  Optional cleanup for later using run:
 npm audit fix --force
       **Note: --force may introduce breaking changes**
+<!-- 🔻 NOTICE THE CLOSING OF THE BASH BLOCK HERE -->
 
 ---
 
