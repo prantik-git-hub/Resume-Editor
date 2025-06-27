@@ -13,8 +13,8 @@ __## Folder Structure
 
 __## Setup Instructions
 
-
- (Frontend (React))
+ ## Frontend(React)
+```bash 
 cd frontend
 npm install     **It will ask for accessing node_modules for smooth installation(click ok)**
 npm start
@@ -60,7 +60,7 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 
 ---
-
+```bash
 
 __## Features
 
