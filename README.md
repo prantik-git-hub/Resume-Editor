@@ -4,16 +4,16 @@ A full-stack resume editing app with AI-powered enhancements.
 
 ---
 
-__## Folder Structure__
+__## Folder Structure
 
 - `frontend/`: React.js-based resume editor  
 - `backend/`: FastAPI backend to enhance and store resume data
 
 ---
 
-__## Setup Instructions__
+__## Setup Instructions
 
-__### Frontend (React)__
+__### Frontend (React)
 
 ```bash
 cd frontend
@@ -47,7 +47,7 @@ npm audit fix --force
 
 ---
 
-### Backend (FastAPI)
+__### Backend (FastAPI)
 
 ```bash
 cd backend
@@ -64,7 +64,7 @@ INFO:     Application startup complete.
 ---
 
 
-## Features
+__## Features
 
 1.AI-enhanced resume sections
 2.Save and load resumes (JSON)
@@ -73,7 +73,7 @@ INFO:     Application startup complete.
 
 ---
 
-## Tech Stack
+__## Tech Stack
 
 1.Frontend: React
 2.Backend: FastAPI
