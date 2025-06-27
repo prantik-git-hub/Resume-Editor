@@ -13,6 +13,8 @@ __## Folder Structure
 
 __## Setup Instructions
 
+---
+
  Frontend (React)
 
 ```bash
