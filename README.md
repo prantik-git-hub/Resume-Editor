@@ -13,7 +13,7 @@ __## Folder Structure
 
 __## Setup Instructions
 
-__### Frontend (React)
+ Frontend (React)
 
 ```bash
 cd frontend
@@ -47,7 +47,7 @@ npm audit fix --force
 
 ---
 
-__### Backend (FastAPI)
+ Backend (FastAPI)
 
 ```bash
 cd backend
