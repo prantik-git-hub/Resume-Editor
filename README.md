@@ -58,7 +58,8 @@ INFO:     Started reloader process [9812] using StatReload
 INFO:     Started server process [23996]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-```bash
+
+
 ---
 
 
