@@ -72,8 +72,11 @@ INFO:     Application startup complete.
 ## Features
 
 1.AI-enhanced resume sections
+
 2.Save and load resumes (JSON)
+
 3.Export to PDF and JSON
+
 4.Upload parsing simulation
 
 ---
