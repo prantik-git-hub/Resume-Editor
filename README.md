@@ -1,17 +1,17 @@
 # Resume Editor
 
-A full-stack resume editing app with AI-powered enhancements.
+A full-stack resume editing app with AI-powered enhancements. User can upload resume(.pdf or .docx) alongwith edit fields like names,summary,add education,add experience,add skills. After that users can save the file and download json and pdf files(not original pdf) of the edited resume.
 
 ---
 
-__## Folder Structure
+ ## Folder Structure
 
 - `frontend/`: React.js-based resume editor  
 - `backend/`: FastAPI backend to enhance and store resume data
 
 ---
 
-__## Setup Instructions
+ ## Setup Instructions
 
  ## Frontend(React)
 ```bash 
@@ -36,23 +36,29 @@ npm start
   then run:
 npm install react-scripts@5.0.1 --save
 npm start
+
        **You can now view resume-editor in the browser**
 
   Local:            http://localhost:3000
   On Your Network:  http://172.22.112.1:3000
-##  Optional cleanup for later using run:
-npm audit fix --force
-      **Note: --force may introduce breaking changes**
 ```
+##  Optional cleanup for later using run:
+```bash
+npm audit fix --force
+```
+      **Note: --force may introduce breaking changes**
+
 
 ---
 
-
-```bash (Backend (FastAPI))
+## Backend (FastAPI)
+```bash 
 cd backend
 pip install fastapi uvicorn pydantic
-uvicorn main:app --reload    **It will show this**
-
+uvicorn main:app --reload
+```
+## It will show this:
+```pgsql
 INFO:     Will watch for changes in these directories: ['Your directory address']
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO:     Started reloader process [9812] using StatReload        
@@ -60,11 +66,10 @@ INFO:     Started server process [23996]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 
-
+```
 ---
 
-
-__## Features
+## Features
 
 1.AI-enhanced resume sections
 2.Save and load resumes (JSON)
@@ -73,7 +78,7 @@ __## Features
 
 ---
 
-__## Tech Stack
+## Tech Stack
 
 1.Frontend: React
 2.Backend: FastAPI
